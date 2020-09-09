@@ -1,0 +1,14 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# AsciiDoctor
+.asciidoctor/
+
+# Node
+node_modules/
+package-lock.json
