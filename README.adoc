@@ -2,8 +2,8 @@
 
 === Languages and Tools:
 
-image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg[Java,26,26,align="left"]
-image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg[Spring,26,26,align="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg[Java,26,26,float="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg[Spring,26,26,float="left"]
 image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg[HTML5,26,26,role="left"]
 image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg[CSS3,26,26,role="left"]
 image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg[JavaScript,26,26,role="left"]
