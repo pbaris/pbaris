@@ -1,1 +1,19 @@
-=== Hi there, I'm Panos ddddd
+=== Hi there, I'm Panos 👋
+
+=== Languages and Tools:
+
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg[Java,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg[Spring,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg[HTML5,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg[CSS3,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg[JavaScript,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg[MySQL,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mariadb.svg[MariaDB,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg[Microsoft SQL Server,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachesolr.svg[Apache Solr,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg[Git,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg[GitHub,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg[Bitbucket,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jirasoftware.svg[Jira Software,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/confluence.svg[Confluence,26,26,role="left"]
+image::https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg[IntelliJ IDEA,26,26,role="left"]
