@@ -1,8 +1,8 @@
 ### Hi there, I'm Panos 👋
+`#ff0000`
 
 ### Languages and Tools:
-
-<img align="left" width="26px" alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="background-color:#007396;padding:5px;" />
+<img align="left" width="26px" alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" class="aa" style="background-color:#007396;padding:5px;" />
 <img align="left" width="26px" alt="Spring" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
 <img align="left" width="26px" alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" width="26px" alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
