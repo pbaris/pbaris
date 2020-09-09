@@ -2,7 +2,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" style="background-color:#007396;padding:5px;" />
 <img align="left" alt="Spring" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
