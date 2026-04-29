@@ -1,3 +1,5 @@
+![](https://hit.yhype.me/github/profile?account_id=242612)
+
 <!--
 ## Github Trophies
 [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=pbaris&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
@@ -18,3 +20,4 @@
 <!--
 ![pbaris's GitHub contributions](https://github.pumbas.net/api/contributions/pbaris?colour=41B883&dotColour=4CC28D)
 -->
+
