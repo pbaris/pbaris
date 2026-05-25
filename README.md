@@ -9,7 +9,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pbaris&theme=vue&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 -->
 
-## Interesting stats
+## GitHub Analytics
 ![Panos's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pbaris&show_icons=true&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbaris&layout=compact&langs_count=10)
 
