@@ -10,8 +10,14 @@
 -->
 
 ## GitHub Analytics
-![Panos's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pbaris&show_icons=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbaris&layout=compact&langs_count=10)
+<div style="text-align:center">
+<a href="https://github.com/dev-loyde">
+  <img height="180em" alt="My GitHub Statistics" title="My GitHub Statistics" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=pbaris&show_icons=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" alt="My Programming Languages" title="My Programming Languages" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbaris&layout=compact&langs_count=10"/>
+</a>
+</div>
 
 <!--
 <div><img src="https://komarev.com/ghpvc/?username=pbariamis&label=pv&color=41B883&style=flat" alt="pbaris" /></div>
