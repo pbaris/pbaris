@@ -10,8 +10,8 @@
 -->
 
 ### Interesting stats
-![Panos's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbaris&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbaris&layout=donut&langs_count=10)
+![Panos's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pbaris&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbaris&layout=donut&langs_count=10)
 
 <!--
 <div><img src="https://komarev.com/ghpvc/?username=pbariamis&label=pv&color=41B883&style=flat" alt="pbaris" /></div>
