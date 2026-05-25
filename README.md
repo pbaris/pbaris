@@ -14,7 +14,7 @@
   <img height="180em" alt="My GitHub Statistics" title="My GitHub Statistics" 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=pbaris&show_icons=true&count_private=true&include_all_commits=true"/>
   <img height="180em" alt="My Programming Languages" title="My Programming Languages" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbaris&layout=compact&langs_count=10"/>
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbaris&layout=compact"/>
 </div>
 
 <!--
