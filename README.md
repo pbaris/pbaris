@@ -9,12 +9,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pbaris&theme=vue&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 -->
 
-## GitHub Analytics
+## GitHub Stats
 <div style="text-align:center">
-  <img height="180em" alt="My GitHub Statistics" title="My GitHub Statistics" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=pbaris&show_icons=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" alt="My Programming Languages" title="My Programming Languages" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbaris&layout=compact&langs_count=6"/>
+  [![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=pbaris&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=pbaris&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
+
+  [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=pbaris&layout=compact&langs_count=10&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=pbaris&layout=compact&langs_count=10&theme=light_github)
 </div>
 
 <!--
