@@ -10,11 +10,17 @@
 -->
 
 ## GitHub Stats
-<div style="text-align:center">
-  [![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=pbaris&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=pbaris&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
+<div style="display: flex; gap: 20px;">
+    <div style="flex: 1;">
+        <img alt="My GitHub Stats" title="My GitHub Stats" 
+            src="https://github-stats-extended.vercel.app/api?username=pbaris&custom_title=My%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github"/>
+    </div>
 
-  [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=pbaris&layout=compact&langs_count=10&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=pbaris&layout=compact&langs_count=10&theme=light_github)
-</div>
+    <div style="flex: 1;">
+        <img alt="Most Used Languages" title="Most Used Languages" 
+            src="https://github-stats-extended.vercel.app/api/top-langs?username=pbaris&layout=compact&langs_count=10&theme=light_github"/>
+    </div>
+</div>  
 
 <!--
 <div><img src="https://komarev.com/ghpvc/?username=pbariamis&label=pv&color=41B883&style=flat" alt="pbaris" /></div>
