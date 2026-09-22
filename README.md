@@ -11,7 +11,7 @@
 
 ## GitHub Stats
 
-<a href="https://github-stats-extended.vercel.app/api?username=pbaris&show_icons=true&include_all_commits=true&theme=light_github">
+<a href="https://github-stats-extended.vercel.app/api?username=pbaris&show_icons=true&include_all_commits=true&theme=light_github" target="_blank">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api?username=pbaris&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github"
@@ -20,7 +20,7 @@
     <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=pbaris&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=light_github" />
   </picture>
 </a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=pbaris&layout=compact&langs_count=10&card_width=320&theme=light_github">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=pbaris&layout=compact&langs_count=10&card_width=320&theme=light_github" target="_blank">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api/top-langs?username=pbaris&layout=compact&langs_count=10&card_width=320&theme=dark_github"
